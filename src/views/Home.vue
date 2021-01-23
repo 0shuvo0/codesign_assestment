@@ -67,7 +67,7 @@ select{
 	display: grid;
 	grid-gap: 5px;
 	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-	grid-auto-rows: 130px;
+	grid-auto-rows: 140px;
 	margin: 10px 0;
 }
 </style>
